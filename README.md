@@ -21,3 +21,10 @@ This is a collection of recent presentations and slides...
   + [🎦 CVE-2020-26228: Cleartext storage of session identifier](cve/CVE-2020-26228.mp4) [🔍 NIST](https://nvd.nist.gov/vuln/detail/CVE-2020-15086)
 * Nov 6th, 2021: [📄 TYPO3camp Rhein-Ruhr 2021: SAST in TYPO3 (🇩🇪 German)](2021/2021_TYPO3camp_Rhein-Ruhr_SAST_de.pdf)
   + [ℹ️ TYPO3camp Rhein-Ruhr website](https://www.typo3camp-rheinruhr.de/sessions/2021.html)
+
+## 2024
+
+* Aug 2nd, 2024: [TYPO3 Developer Days 2024: Securing TYPO3 Web Applications](2024/2024_TYPO3_Developer_Days_2024-Securing_TYPO3_Web_Applications.pdf)
+  + [ℹ️ TYPO3 Developer Days 2024 website](https://t3dd24.typo3.com/program/sessions/securing-typo3-web-applications-811)
+  + [🎦 DEMO `sqlmap` and `sql-shell`](2024/2024_TYPO3_Developer_Days_2024-Securing_TYPO3_Web_Applications/demo_sqlmap_sql-shell.mov)
+  + [🎦 DEMO XSS and XSRF to create new admin user](2024/2024_TYPO3_Developer_Days_2024-Securing_TYPO3_Web_Applications/demo_xss_xsrf_new_admin_user.mp4)
